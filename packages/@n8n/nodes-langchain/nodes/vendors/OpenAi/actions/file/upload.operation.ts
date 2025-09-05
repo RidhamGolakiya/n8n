@@ -39,6 +39,22 @@ const properties: INodeProperties[] = [
 						name: 'Fine-Tune',
 						value: 'fine-tune',
 					},
+					{
+						name: 'Batch',
+						value: 'batch',
+					},
+					{
+						name: 'Vision',
+						value: 'vision',
+					},
+					{
+						name: 'User Data',
+						value: 'user_data',
+					},
+					{
+						name: 'Evals',
+						value: 'evals',
+					},
 				],
 			},
 		],
